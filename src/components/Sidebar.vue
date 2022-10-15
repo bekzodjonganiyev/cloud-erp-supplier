@@ -5,9 +5,9 @@
     <div class="flex flex-col fixed">
       <!-- AlphaSoft Logo -->
       <div class="m-4 mt-6">
-        <a class="flex items-center" href="http://www.alphasoft.uz" target="_blank ">
-          <img class="mr-2" src="../assets/logo_aphasoft.svg" alt="aplhasoft_logo" />
-          <h1 class="text-white text-2xl font-semibold">AlphaSoft</h1>
+        <a class="flex items-center" href="#" target="_blank ">
+          <img class="mr-2 w-16" src="../assets/logo.png" alt="aplhasoft_logo" />
+          <h1 class="text-white text-2xl font-semibold">TCTI Admin</h1>
         </a>
       </div>
 

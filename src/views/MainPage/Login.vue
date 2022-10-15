@@ -2,7 +2,7 @@
 
 <template>
   <div class="bg-neutral-900">
-    <div class="bg-red-400">
+    <div>
       <nav class="container px-3 py-3 mx-auto md:flex">
         <div class="flex items-center justify-between">
           <router-link
@@ -40,12 +40,12 @@
     </div>
     <div class="bg-neutral-900 flex justify-evenly md:flex-none md:col-span-12">
       <div class>
-        <img class="min-w-full w-96 my-10" src="../../assets/Group 4.svg" alt />
+        <img class="min-w-full w-96 my-10" src="../../assets/Illustration.png" alt="illistration" />
       </div>
       <form @submit.prevent="loginUser" class="bg-white flex justify-center my-20 w-1/3 rounded-md">
         <div class="px-5">
           <h1 class="font-bold py-3 mt-10 text-3xl text-center">Login</h1>
-          <hr class />
+          <hr />
           <input
             type="number"
             v-model="phone"

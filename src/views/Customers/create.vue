@@ -87,10 +87,10 @@
                     <tr>
                         <th
                             class="w-32 text-zinc-400 p-3 text-sm font-semibold tracking-wide text-left"
-                        >Shop Name</th>
+                        >Name</th>
                         <th
                             class="w-32 text-zinc-400 p-3 text-sm font-semibold tracking-wide text-left"
-                        >Shop Phone</th>
+                        >Phone</th>
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-gray-100">

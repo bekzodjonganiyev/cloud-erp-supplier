@@ -115,10 +115,10 @@ export default {
         })
       }
     },
-    created: function () {
+  },
+  created: function () {
       this.getData()
     }
-  }
 }
 
 </script> 

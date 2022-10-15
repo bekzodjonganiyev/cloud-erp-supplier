@@ -167,7 +167,7 @@ export default {
     },
     created: function () {
         this.getData(),
-            this.getAgentName()
+        this.getAgentName()
     }
 }
 </script>
